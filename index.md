@@ -1,4 +1,12 @@
-| 左对齐 | 右对齐 | 居中对齐 |
+|       | sample2 | sample3 |
 | :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+| clean | 单元格 | 单元格 |
+| noisy | 单元格 | 单元格 |
+| MAE <br> Wave-U-Net | 单元格 | 单元格 |
+| MSE <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+STFT <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+MRSTFT <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+DFL <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+PFP <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+PHRTF <br> Wave-U-Net | 单元格 | 单元格 |
+| MAE+PHRTF <br> SASP | <audio src="audios/"> </audio> | 单元格 |
