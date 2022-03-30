@@ -1,6 +1,5 @@
 ## enhanced audio samples
 | clean        | noisy    |  数量  |
-|                         |  aaa  |
 | --------   | -----:   | :----: |
 | 香蕉        | $1      |   5    |
 | 苹果        | $1      |   6    |
