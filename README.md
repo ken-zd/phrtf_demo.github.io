@@ -1,2 +1,2 @@
 # phrtf_demo.github.io
-demo of enhanced audio samples of SE model trained with different losses
+Enhanced audio samples of SE model trained with different losses
