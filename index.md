@@ -9,4 +9,4 @@
 | MAE+DFL <br> Wave-U-Net | 单元格 | 单元格 |
 | MAE+PFP <br> Wave-U-Net | 单元格 | 单元格 |
 | MAE+PHRTF <br> Wave-U-Net | 单元格 | 单元格 |
-| MAE+PHRTF <br> SASP | <audio src="audios/"> </audio> | 单元格 |
+| MAE+PHRTF <br> SASP | <audio src="audios/p232_001.wav"> </audio> | 单元格 |
